@@ -2,3 +2,4 @@
 plants
 fruits
 hi_fruit
+I love plants
